@@ -22,10 +22,10 @@ export const revenueData = [
 
 export const dealStageData = [
   { name: "Lead", value: 35, color: "#94a3b8" },
-  { name: "Qualified", value: 25, color: "#60a5fa" },
-  { name: "Proposal", value: 20, color: "#818cf8" },
-  { name: "Negotiation", value: 12, color: "#a78bfa" },
-  { name: "Closed", value: 8, color: "#34d399" },
+  { name: "Qualified", value: 25, color: "#3b82f6" },
+  { name: "Proposal", value: 20, color: "#6366f1" },
+  { name: "Negotiation", value: 12, color: "#8b5cf6" },
+  { name: "Closed", value: 8, color: "#10b981" },
 ];
 
 export const contacts = [
